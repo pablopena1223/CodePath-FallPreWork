@@ -99,11 +99,9 @@
 		6639566226AFB05700D55F2F /* FallPreWork */ = {
 			isa = PBXGroup;
 			children = (
-				6639566326AFB05700D55F2F /* AppDelegate.swift */,
-				6639566526AFB05700D55F2F /* SceneDelegate.swift */,
+				6639569626AFB0C800D55F2F /* Misc */,
 				6639566726AFB05700D55F2F /* ViewController.swift */,
 				6639566926AFB05700D55F2F /* Main.storyboard */,
-				6639566C26AFB05A00D55F2F /* Assets.xcassets */,
 				6639566E26AFB05A00D55F2F /* LaunchScreen.storyboard */,
 				6639567126AFB05A00D55F2F /* Info.plist */,
 			);
@@ -126,6 +124,16 @@
 				6639568726AFB05B00D55F2F /* Info.plist */,
 			);
 			path = FallPreWorkUITests;
+			sourceTree = "<group>";
+		};
+		6639569626AFB0C800D55F2F /* Misc */ = {
+			isa = PBXGroup;
+			children = (
+				6639566326AFB05700D55F2F /* AppDelegate.swift */,
+				6639566526AFB05700D55F2F /* SceneDelegate.swift */,
+				6639566C26AFB05A00D55F2F /* Assets.xcassets */,
+			);
+			path = Misc;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
